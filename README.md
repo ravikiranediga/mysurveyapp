@@ -24,8 +24,4 @@ It was developed using a mix of frontend and backend technologies, focusing on f
 
 - **Backend:**  
   - **Node.js** for server-side functionality  
-  - JSON files for storing and managing data  
-
----
-
-## 📂 Project Structure
+  - JSON files for storing and managing.
