@@ -34,7 +34,7 @@ Here are some previews of **MySurveyApp** in action:
 <img src="images/interactive.png.PNG" width="600" alt="Interactive Form">
 
 ### Registration Form
-<img src="images/reg.png.PNG" width="600" alt="Registration Form">
+<img src="images/reg.png.png" width="600" alt="Registration Form">
 
 ### Validation Form
 <img src="images/valid.png.PNG" width="600" alt="Validation Form">
