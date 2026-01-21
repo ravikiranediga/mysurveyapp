@@ -31,12 +31,12 @@ It was developed using a mix of frontend and backend technologies, focusing on f
 Here are some previews of **MySurveyApp** in action:
 
 ### Interactive Form
-![Interactive Form](https://github.com/ravikiranediga/mysurveyapp/blob/main/images/interactive.png.PNG)
+![Interactive Form](images/interactive.png.PNG)
 
 ### Registration Form
-![Registration Form]()
+![Registration Form](images/reg.png.PNG)
 
 ### Validation Form
-![Validation Form](images/valid.png)
+![Validation Form](images/valid.png.PNG)
 
 
