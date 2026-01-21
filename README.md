@@ -25,3 +25,18 @@ It was developed using a mix of frontend and backend technologies, focusing on f
 - **Backend:**  
   - **Node.js** for server-side functionality  
   - JSON files for storing and managing.
+ 
+## 📸 Screenshots
+
+Here are some previews of **MySurveyApp** in action:
+
+### Interactive Form
+![Interactive Form](images/interactive.png)
+
+### Registration Form
+![Registration Form](images/reg.png)
+
+### Validation Form
+![Validation Form](images/valid.png)
+
+
