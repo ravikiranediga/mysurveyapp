@@ -30,10 +30,13 @@ It was developed using a mix of frontend and backend technologies, focusing on f
 
 Here are some previews of **MySurveyApp** in action:
 
-### [Interactive Form](images/interactive.png)
+### Interactive Form
 ![Interactive Form](images/interactive.png.PNG)
 
-### [Registration Form](images/reg.png.PNG)
+### Registration Form
 ![Registration Form](images/reg.png.png)
+
+### Validation Form
+![Validation Form](images/valid.png.PNG)
 
 
